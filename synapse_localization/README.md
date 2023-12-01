@@ -10,4 +10,5 @@ they share with the input neuron
 There is also a visualization tool in the Jupyter notebook
 to help you figure out how large a radius to keep synapses in.
 
+WARNING: Neuprint only uses Python 3.9 as of 11/30/2023 so make sure it's updated.
 
