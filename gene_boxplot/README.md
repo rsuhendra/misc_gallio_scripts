@@ -1,5 +1,5 @@
 # Gene Boxplot GUI
-Creates images based on search terms inputed by the user. Code mostly runs
+Creates images based on search terms inputed by the user. 
 
 ## gui.ipynb
 The main file. Queries the database, creates plots, then stitches them into a final plot, located in the images subdirectory. User input is:
